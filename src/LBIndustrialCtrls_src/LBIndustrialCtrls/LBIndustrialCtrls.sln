@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBIndustrialCtrls", "LBIndustrialCtrls.csproj", "{B4218BC9-9736-42B9-BC99-7903FDBEBA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4218BC9-9736-42B9-BC99-7903FDBEBA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4218BC9-9736-42B9-BC99-7903FDBEBA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4218BC9-9736-42B9-BC99-7903FDBEBA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4218BC9-9736-42B9-BC99-7903FDBEBA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41F8A8A1-CC02-4B85-B028-BE9B27EF34BD}
+	EndGlobalSection
+EndGlobal
